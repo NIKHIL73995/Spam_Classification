@@ -26,7 +26,7 @@ The project uses a publicly available dataset for spam email classification, suc
  **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Vaishnavi-M-1909/Spam-mail
+   git clone https://github.com/NIKHIL73995/Spam_Classification
    ```
 2. Go to Google colab and upload the notebook
 3. Upload dataset in the notebook
